@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestProjects\\Lotteries-Digital-Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8155A18E-5C23-42F9-AD10-46330555AB8A}|LotteriesDigitalApi.Domain\\LotteriesDigitalApi.Domain.csproj|d:\\testprojects\\lotteries-digital-api\\lotteriesdigitalapi.domain\\ticket\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155A18E-5C23-42F9-AD10-46330555AB8A}|LotteriesDigitalApi.Domain\\LotteriesDigitalApi.Domain.csproj|solutionrelative:lotteriesdigitalapi.domain\\ticket\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155A18E-5C23-42F9-AD10-46330555AB8A}|LotteriesDigitalApi.Domain\\LotteriesDigitalApi.Domain.csproj|d:\\testprojects\\lotteries-digital-api\\lotteriesdigitalapi.domain\\common\\errors.ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155A18E-5C23-42F9-AD10-46330555AB8A}|LotteriesDigitalApi.Domain\\LotteriesDigitalApi.Domain.csproj|solutionrelative:lotteriesdigitalapi.domain\\common\\errors.ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47235D31-F30F-40E9-BAE7-D0BF14E64AA9}|LotteriesDigitalApi.Contracts\\LotteriesDigitalApi.Contracts.csproj|d:\\testprojects\\lotteries-digital-api\\lotteriesdigitalapi.contracts\\purchasetickets\\purchaseticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47235D31-F30F-40E9-BAE7-D0BF14E64AA9}|LotteriesDigitalApi.Contracts\\LotteriesDigitalApi.Contracts.csproj|solutionrelative:lotteriesdigitalapi.contracts\\purchasetickets\\purchaseticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47235D31-F30F-40E9-BAE7-D0BF14E64AA9}|LotteriesDigitalApi.Contracts\\LotteriesDigitalApi.Contracts.csproj|d:\\testprojects\\lotteries-digital-api\\lotteriesdigitalapi.contracts\\purchasetickets\\purchaseticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47235D31-F30F-40E9-BAE7-D0BF14E64AA9}|LotteriesDigitalApi.Contracts\\LotteriesDigitalApi.Contracts.csproj|solutionrelative:lotteriesdigitalapi.contracts\\purchasetickets\\purchaseticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB6254C-D679-46AC-A90C-71D1A749AB40}|LotteriesDigitalApi.Application\\LotteriesDigitalApi.Application.csproj|d:\\testprojects\\lotteries-digital-api\\lotteriesdigitalapi.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB6254C-D679-46AC-A90C-71D1A749AB40}|LotteriesDigitalApi.Application\\LotteriesDigitalApi.Application.csproj|solutionrelative:lotteriesdigitalapi.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB6254C-D679-46AC-A90C-71D1A749AB40}|LotteriesDigitalApi.Application\\LotteriesDigitalApi.Application.csproj|d:\\testprojects\\lotteries-digital-api\\lotteriesdigitalapi.application\\tickets\\commands\\purchaseticket\\purchaseticketcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB6254C-D679-46AC-A90C-71D1A749AB40}|LotteriesDigitalApi.Application\\LotteriesDigitalApi.Application.csproj|solutionrelative:lotteriesdigitalapi.application\\tickets\\commands\\purchaseticket\\purchaseticketcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB6254C-D679-46AC-A90C-71D1A749AB40}|LotteriesDigitalApi.Application\\LotteriesDigitalApi.Application.csproj|d:\\testprojects\\lotteries-digital-api\\lotteriesdigitalapi.application\\tickets\\commands\\purchaseticket\\purchaseticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB6254C-D679-46AC-A90C-71D1A749AB40}|LotteriesDigitalApi.Application\\LotteriesDigitalApi.Application.csproj|solutionrelative:lotteriesdigitalapi.application\\tickets\\commands\\purchaseticket\\purchaseticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB6254C-D679-46AC-A90C-71D1A749AB40}|LotteriesDigitalApi.Application\\LotteriesDigitalApi.Application.csproj|d:\\testprojects\\lotteries-digital-api\\lotteriesdigitalapi.application\\tickets\\commands\\purchaseticket\\purchaseticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB6254C-D679-46AC-A90C-71D1A749AB40}|LotteriesDigitalApi.Application\\LotteriesDigitalApi.Application.csproj|solutionrelative:lotteriesdigitalapi.application\\tickets\\commands\\purchaseticket\\purchaseticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB6254C-D679-46AC-A90C-71D1A749AB40}|LotteriesDigitalApi.Application\\LotteriesDigitalApi.Application.csproj|d:\\testprojects\\lotteries-digital-api\\lotteriesdigitalapi.application\\common\\interfaces\\services\\iticketprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB6254C-D679-46AC-A90C-71D1A749AB40}|LotteriesDigitalApi.Application\\LotteriesDigitalApi.Application.csproj|solutionrelative:lotteriesdigitalapi.application\\common\\interfaces\\services\\iticketprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB6254C-D679-46AC-A90C-71D1A749AB40}|LotteriesDigitalApi.Application\\LotteriesDigitalApi.Application.csproj|d:\\testprojects\\lotteries-digital-api\\lotteriesdigitalapi.application\\common\\interfaces\\services\\iserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB6254C-D679-46AC-A90C-71D1A749AB40}|LotteriesDigitalApi.Application\\LotteriesDigitalApi.Application.csproj|solutionrelative:lotteriesdigitalapi.application\\common\\interfaces\\services\\iserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketPurchase.cs",
+              "DocumentMoniker": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Domain\\Ticket\\TicketPurchase.cs",
+              "RelativeDocumentMoniker": "LotteriesDigitalApi.Domain\\Ticket\\TicketPurchase.cs",
+              "ToolTip": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Domain\\Ticket\\TicketPurchase.cs",
+              "RelativeToolTip": "LotteriesDigitalApi.Domain\\Ticket\\TicketPurchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:39:58.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Errors.Ticket.cs",
+              "DocumentMoniker": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Domain\\Common\\Errors.Ticket.cs",
+              "RelativeDocumentMoniker": "LotteriesDigitalApi.Domain\\Common\\Errors.Ticket.cs",
+              "ToolTip": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Domain\\Common\\Errors.Ticket.cs",
+              "RelativeToolTip": "LotteriesDigitalApi.Domain\\Common\\Errors.Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:39:56.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurchaseTicketResponse.cs",
+              "DocumentMoniker": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Contracts\\PurchaseTickets\\PurchaseTicketResponse.cs",
+              "RelativeDocumentMoniker": "LotteriesDigitalApi.Contracts\\PurchaseTickets\\PurchaseTicketResponse.cs",
+              "ToolTip": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Contracts\\PurchaseTickets\\PurchaseTicketResponse.cs",
+              "RelativeToolTip": "LotteriesDigitalApi.Contracts\\PurchaseTickets\\PurchaseTicketResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:39:42.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PurchaseTicketRequest.cs",
+              "DocumentMoniker": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Contracts\\PurchaseTickets\\PurchaseTicketRequest.cs",
+              "RelativeDocumentMoniker": "LotteriesDigitalApi.Contracts\\PurchaseTickets\\PurchaseTicketRequest.cs",
+              "ToolTip": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Contracts\\PurchaseTickets\\PurchaseTicketRequest.cs",
+              "RelativeToolTip": "LotteriesDigitalApi.Contracts\\PurchaseTickets\\PurchaseTicketRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:39:41.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "LotteriesDigitalApi.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "LotteriesDigitalApi.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:39:34.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseTicketCommandValidator.cs",
+              "DocumentMoniker": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Application\\Tickets\\Commands\\PurchaseTicket\\PurchaseTicketCommandValidator.cs",
+              "RelativeDocumentMoniker": "LotteriesDigitalApi.Application\\Tickets\\Commands\\PurchaseTicket\\PurchaseTicketCommandValidator.cs",
+              "ToolTip": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Application\\Tickets\\Commands\\PurchaseTicket\\PurchaseTicketCommandValidator.cs",
+              "RelativeToolTip": "LotteriesDigitalApi.Application\\Tickets\\Commands\\PurchaseTicket\\PurchaseTicketCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:39:25.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PurchaseTicketCommandHandler.cs",
+              "DocumentMoniker": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Application\\Tickets\\Commands\\PurchaseTicket\\PurchaseTicketCommandHandler.cs",
+              "RelativeDocumentMoniker": "LotteriesDigitalApi.Application\\Tickets\\Commands\\PurchaseTicket\\PurchaseTicketCommandHandler.cs",
+              "ToolTip": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Application\\Tickets\\Commands\\PurchaseTicket\\PurchaseTicketCommandHandler.cs",
+              "RelativeToolTip": "LotteriesDigitalApi.Application\\Tickets\\Commands\\PurchaseTicket\\PurchaseTicketCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:39:24.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PurchaseTicketCommand.cs",
+              "DocumentMoniker": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Application\\Tickets\\Commands\\PurchaseTicket\\PurchaseTicketCommand.cs",
+              "RelativeDocumentMoniker": "LotteriesDigitalApi.Application\\Tickets\\Commands\\PurchaseTicket\\PurchaseTicketCommand.cs",
+              "ToolTip": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Application\\Tickets\\Commands\\PurchaseTicket\\PurchaseTicketCommand.cs",
+              "RelativeToolTip": "LotteriesDigitalApi.Application\\Tickets\\Commands\\PurchaseTicket\\PurchaseTicketCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:39:23.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITicketProvider.cs",
+              "DocumentMoniker": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Application\\Common\\Interfaces\\Services\\ITicketProvider.cs",
+              "RelativeDocumentMoniker": "LotteriesDigitalApi.Application\\Common\\Interfaces\\Services\\ITicketProvider.cs",
+              "ToolTip": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Application\\Common\\Interfaces\\Services\\ITicketProvider.cs",
+              "RelativeToolTip": "LotteriesDigitalApi.Application\\Common\\Interfaces\\Services\\ITicketProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:39:12.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IServiceException.cs",
+              "DocumentMoniker": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Application\\Common\\Interfaces\\Services\\IServiceException.cs",
+              "RelativeDocumentMoniker": "LotteriesDigitalApi.Application\\Common\\Interfaces\\Services\\IServiceException.cs",
+              "ToolTip": "D:\\TestProjects\\Lotteries-Digital-Api\\LotteriesDigitalApi.Application\\Common\\Interfaces\\Services\\IServiceException.cs",
+              "RelativeToolTip": "LotteriesDigitalApi.Application\\Common\\Interfaces\\Services\\IServiceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:39:02.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

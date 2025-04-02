@@ -17,9 +17,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{12E7F98B-1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{741FBB2F-4D9B-4F50-9DA9-7EE875AFEB0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotteriesDigitalApi.Application.UnitTests", "LotteriesDigitalApi.Application.UnitTests\LotteriesDigitalApi.Application.UnitTests.csproj", "{FFB719D9-AD2A-4571-A5D4-791224212BCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LotteriesDigitalApi.Application.UnitTests", "LotteriesDigitalApi.Application.UnitTests\LotteriesDigitalApi.Application.UnitTests.csproj", "{FFB719D9-AD2A-4571-A5D4-791224212BCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotteriesDigitalApi.Infrastructure.UnitTests", "LotteriesDigitalApi.Infrastructure.UnitTests\LotteriesDigitalApi.Infrastructure.UnitTests.csproj", "{691EC274-75DA-4B33-8882-80512B18B246}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LotteriesDigitalApi.Infrastructure.UnitTests", "LotteriesDigitalApi.Infrastructure.UnitTests\LotteriesDigitalApi.Infrastructure.UnitTests.csproj", "{691EC274-75DA-4B33-8882-80512B18B246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotteriesDigitalApi.Domain.UnitTests", "LotteriesDigitalApi.Domain.UnitTests\LotteriesDigitalApi.Domain.UnitTests.csproj", "{9443F73E-858F-4B93-9ABA-4452D5F857C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{691EC274-75DA-4B33-8882-80512B18B246}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{691EC274-75DA-4B33-8882-80512B18B246}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{691EC274-75DA-4B33-8882-80512B18B246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9443F73E-858F-4B93-9ABA-4452D5F857C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9443F73E-858F-4B93-9ABA-4452D5F857C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9443F73E-858F-4B93-9ABA-4452D5F857C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9443F73E-858F-4B93-9ABA-4452D5F857C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,6 +69,7 @@ Global
 		{741FBB2F-4D9B-4F50-9DA9-7EE875AFEB0E} = {12E7F98B-1EBA-4714-BCDD-6845250C0FD0}
 		{FFB719D9-AD2A-4571-A5D4-791224212BCE} = {741FBB2F-4D9B-4F50-9DA9-7EE875AFEB0E}
 		{691EC274-75DA-4B33-8882-80512B18B246} = {741FBB2F-4D9B-4F50-9DA9-7EE875AFEB0E}
+		{9443F73E-858F-4B93-9ABA-4452D5F857C0} = {741FBB2F-4D9B-4F50-9DA9-7EE875AFEB0E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D2A5C6DF-E503-48D1-9BD5-369A8EAF5FA3}
